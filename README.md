@@ -58,17 +58,17 @@ Hospitals face financial and reputational challenges due to unplanned readmissio
 ---
 
 ## 💻 Tools and Technologies  
-<P><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />  
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-- ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
-- ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-- ![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?logo=python&logoColor=white)  
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white)  
-- ![Seaborn](https://img.shields.io/badge/Seaborn-44A8B3?logo=python&logoColor=white)  
-- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
-- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-- ![Joblib](https://img.shields.io/badge/Joblib-008000?logo=python&logoColor=white)  
+<P><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+- <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+- <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+- <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge&logo=python&logoColor=white" />  
+- <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+- <img src="https://img.shields.io/badge/Seaborn-44A8B3?style=for-the-badge&logo=python&logoColor=white" />  
+- <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />  
+- <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />  
+- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />  
+- <img src="https://img.shields.io/badge/Joblib-008000?style=for-the-badge&logo=python&logoColor=white" />
 </P>
 ---
 
