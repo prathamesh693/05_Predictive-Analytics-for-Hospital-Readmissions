@@ -96,5 +96,4 @@ Hospitals face financial and reputational challenges due to unplanned readmissio
 ---
 
 ## 🤝 Connect With Me  
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/)**  
-**[![GitHub](https://img.shields.io/badge/GitHub-Prathamesh%20Jadhav-2b3137?logo=github)](https://github.com/prathamesh693)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/) [![GitHub](https://img.shields.io/badge/GitHub-Prathamesh%20Jadhav-2b3137?logo=github)](https://github.com/prathamesh693)**
