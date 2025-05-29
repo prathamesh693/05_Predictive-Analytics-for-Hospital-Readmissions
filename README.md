@@ -58,7 +58,7 @@ Hospitals face financial and reputational challenges due to unplanned readmissio
 ---
 
 ## 💻 Tools and Technologies  
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+<P><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />  
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
 - ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
 - ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
@@ -69,7 +69,7 @@ Hospitals face financial and reputational challenges due to unplanned readmissio
 - ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
 - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
 - ![Joblib](https://img.shields.io/badge/Joblib-008000?logo=python&logoColor=white)  
-
+</P>
 ---
 
 ## ✔️ Success Criteria  
