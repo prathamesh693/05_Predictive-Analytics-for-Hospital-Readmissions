@@ -3,7 +3,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import joblib
 import os
-
 # Load processed data
 df = pd.read_csv("R:/Projects/1_Data_Science & ML_Projects/05_Predictive Analytics for Hospital Readmissions/02_Dataset/preprocessed_data.csv")
 
